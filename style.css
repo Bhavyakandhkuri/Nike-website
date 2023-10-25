@@ -1,0 +1,40 @@
+div{
+    margin-top: 20px;
+}
+div ul{
+    display: inline-block;
+}
+div ul li{
+    display:inline-block;
+    text-decoration: none;
+    justify-content: space-between;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    padding: 50px;
+}
+.pic1{
+    width: 80%;
+    margin: 10px;
+    box-sizing: border-box;
+    margin-left: 50px;
+}
+
+
+th,td{
+    
+    text-align: center;
+    font-size: 30px;
+}
+table{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.shop{
+    text-align: center;
+
+}
